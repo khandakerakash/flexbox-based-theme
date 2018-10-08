@@ -10,7 +10,6 @@
 
 ## Sample View:
 
-![alt text](src/img/home_page.png)
+![alt text](img/home_page.png)
 
-Files are compiled into /src
 
